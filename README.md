@@ -3,6 +3,7 @@
 |<img src="/preview/preview1.png" width="300"/>|<img src="/preview/preview2.png" width="300"/>|<img src="/preview/preview3.png" width="300"/>|
 |--|--|--|
 
+Page 1
 ```dart
 Navigator.pushNamed(
   context,
@@ -18,6 +19,7 @@ Navigator.pushNamed(
 });
 ```
 
+Page 2
 ```dart
   @override
   Widget build(BuildContext context) {
