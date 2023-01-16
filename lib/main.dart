@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_navigator_reload/app_router.dart';
 import 'package:flutter_navigator_reload/my_home_page.dart';
-import 'package:flutter_navigator_reload/page_2_view.dart';
 
 void main() {
   runApp(const MyApp());
